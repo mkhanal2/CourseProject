@@ -3,7 +3,7 @@
 Text Classification Competition: Twitter Sarcasm Detection
 Model Used: LSTM
 
-All the details about the project has been documented in the "CS410 Project Documentation.PDF" file out here.
+All the details about the project has been documented in the "CS410 Project Documentation.PDF" file out here. https://github.com/mkhanal2/CourseProject/blob/main/CS410%20Project%20Documentation.pdf
 
 # Documents
 - Project Proposal : https://github.com/mkhanal2/CourseProject/blob/main/CS410%20Project%20Proposal.pdf
