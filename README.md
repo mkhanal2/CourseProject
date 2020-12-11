@@ -6,6 +6,9 @@ Model Used: LSTM
 All the details about the project has been documented in the "CS410 Project Documentation.PDF" file out here.
 
 # Documents
+- Project Proposal : https://github.com/mkhanal2/CourseProject/blob/main/CS410%20Project%20Proposal.pdf
+- Project Progress Report : https://github.com/mkhanal2/CourseProject/blob/main/CS410%20Project%20-%20Progress%20Report.pdf
+- Project Final Document: https://github.com/mkhanal2/CourseProject/blob/main/CS410%20Project%20Documentation.pdf
 
 # Source Code
 
