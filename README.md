@@ -11,7 +11,9 @@ All the details about the project has been documented in the "CS410 Project Docu
 - Project Final Document: https://github.com/mkhanal2/CourseProject/blob/main/CS410%20Project%20Documentation.pdf
 
 # Source Code
-
+- source_code folder --> to be uploaded.
+# Video Presentation
+- Link --> to be uploaded.
 # How to use/run the code
 The code is developed using python 3 (Jupiter notebook). There is folder called source_code on the GitHub (https://github.com/mkhanal2/CourseProject) where we put all the documentation and source-code for the project. Follow following instruction to run the code:
 - Download the folder “source_code” from GitHub (link above)
