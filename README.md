@@ -1,5 +1,8 @@
 # CourseProject
 
+- Team Members
+	- Mohan Khanal (mkhanal2@illinois.edu)
+
 Text Classification Competition: Twitter Sarcasm Detection
 Model Used: LSTM
 
