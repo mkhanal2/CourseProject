@@ -11,7 +11,7 @@ All the details about the project has been documented in the "CS410 Project Docu
 - Project Final Document: https://github.com/mkhanal2/CourseProject/blob/main/CS410%20Project%20Documentation.pdf
 
 # Source Code
-- source_code folder --> to be uploaded.
+- https://github.com/mkhanal2/CourseProject/blob/main/source_code/Project%20Source%20Code.ipynb
 # Video Presentation
 - Link --> to be uploaded.
 # How to use/run the code
